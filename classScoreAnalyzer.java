@@ -10,3 +10,4 @@ public class Main{
 
         // Asks the user if they want to process another class
         System.out.print("\nWould you like to process another class? (Y or N): ");
+        input = myScanner.next();
