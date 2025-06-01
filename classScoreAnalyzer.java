@@ -5,5 +5,7 @@ public class Main{
         Scanner myScanner = new Scanner(System.in);
         String input;
 
-        // Call the method that processes class scores
+        // Calls the method that processes class scores
         processClassScores(myScanner);
+
+        // Asks the user if they want to process another class
