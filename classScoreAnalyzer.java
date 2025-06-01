@@ -6,3 +6,4 @@ public class Main{
         String input;
 
         // Call the method that processes class scores
+        processClassScores(myScanner);
