@@ -14,3 +14,4 @@ public class Main{
 
         // Repeat until user says "n" or "N"
         while (input.equalsIgnoreCase("Y")) {
+            processClassScores(myScanner);
