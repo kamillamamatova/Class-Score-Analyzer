@@ -13,3 +13,4 @@ public class Main{
         input = myScanner.next();
 
         // Repeat until user says "n" or "N"
+        while (input.equalsIgnoreCase("Y")) {
