@@ -20,3 +20,5 @@ public class Main{
             System.out.print("\nWould you like to process another class? (Y or N): ");
             input = myScanner.next();
         }
+
+        System.out.println("Goodbye!");
