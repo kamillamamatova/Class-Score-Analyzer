@@ -26,3 +26,6 @@ public class Main{
         // Close the scanner
         myScanner.close();
     }
+
+    // This method processes the class scores
+    public static void processClassScores(Scanner myScanner){
