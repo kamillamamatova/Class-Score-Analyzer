@@ -22,3 +22,6 @@ public class Main{
         }
 
         System.out.println("Goodbye!");
+
+        // Close the scanner
+        myScanner.close();
