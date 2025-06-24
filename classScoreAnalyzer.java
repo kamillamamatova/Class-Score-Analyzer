@@ -29,3 +29,4 @@ public class Main{
 
     // This method processes the class scores
     public static void processClassScores(Scanner myScanner){
+        System.out.println("Welcome to my program. You will be asked to enter the scores of a test one by one, and to enter -1 to stop.");
