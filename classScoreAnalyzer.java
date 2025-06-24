@@ -35,3 +35,6 @@ public class Main{
 
         // How many scores there are
         int scoreCount = 0;
+
+        // How many score that passed there are (>= 70)
+        int passCount = 0;
