@@ -32,3 +32,6 @@ public class Main{
         System.out.println("Welcome to my program. You will be asked to enter the scores of a test one by one, and to enter -1 to stop.");
 
         int score = 0;
+
+        // How many scores there are
+        int scoreCount = 0;
