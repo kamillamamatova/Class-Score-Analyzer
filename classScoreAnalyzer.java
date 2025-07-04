@@ -44,3 +44,5 @@ public class Main{
 
         // Counter for each grade letter
         int gradeA = 0, gradeB = 0, gradeC = 0, gradeD = 0, gradeF = 0;
+
+        System.out.println("");
