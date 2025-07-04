@@ -41,3 +41,6 @@ public class Main{
 
         // Sum of all scores
         int sum = 0;
+
+        // Counter for each grade letter
+        int gradeA = 0, gradeB = 0, gradeC = 0, gradeD = 0, gradeF = 0;
