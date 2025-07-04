@@ -38,3 +38,6 @@ public class Main{
 
         // How many score that passed there are (>= 70)
         int passCount = 0;
+
+        // Sum of all scores
+        int sum = 0;
