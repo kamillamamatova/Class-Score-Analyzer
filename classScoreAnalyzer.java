@@ -46,3 +46,6 @@ public class Main{
         int gradeA = 0, gradeB = 0, gradeC = 0, gradeD = 0, gradeF = 0;
 
         System.out.println("");
+
+        // Loop until user enter -1
+        while(score != -1){
