@@ -50,3 +50,4 @@ public class Main{
         // Loop until user enter -1
         while(score != -1){
             System.out.print("Enter Score (Enter -1 to Stop): ");
+            score = myScanner.nextInt();
