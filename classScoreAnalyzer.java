@@ -60,4 +60,6 @@ public class Main{
 
             // Passing scores (70 or above)
             if(score >= 70 && score <= 100){
-                
+               passCount++;
+            }
+            
