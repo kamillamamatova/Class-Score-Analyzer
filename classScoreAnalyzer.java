@@ -51,3 +51,6 @@ public class Main{
         while(score != -1){
             System.out.print("Enter Score (Enter -1 to Stop): ");
             score = myScanner.nextInt();
+
+            // Increase the sum and the score counter for all valid scores
+            if(score != -1 && score <= 100 && score >= 0) {
