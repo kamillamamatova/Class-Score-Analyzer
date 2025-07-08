@@ -54,3 +54,4 @@ public class Main{
 
             // Increase the sum and the score counter for all valid scores
             if(score != -1 && score <= 100 && score >= 0) {
+                scoreCount++;
