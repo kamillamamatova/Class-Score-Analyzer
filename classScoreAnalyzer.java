@@ -67,3 +67,5 @@ public class Main{
             if(score > 100 || score < 0){
                 System.out.println("Score " + score + " Rejected");
             }
+
+             if(score >= 90 && score <= 100){
