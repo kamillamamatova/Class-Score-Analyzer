@@ -65,3 +65,5 @@ public class Main{
 
              // If user entered score is more than 100 or less than 0, output that the score was rejected
             if(score > 100 || score < 0){
+                System.out.println("Score " + score + " Rejected");
+            }
