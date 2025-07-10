@@ -71,3 +71,4 @@ public class Main{
              if(score >= 90 && score <= 100){
                  gradeA++;
             }
+            else if(score >= 80 && score < 90){
