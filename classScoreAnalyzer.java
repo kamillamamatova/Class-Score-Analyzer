@@ -78,4 +78,6 @@ public class Main{
                 gradeC++;
             }
             else if(score >= 60 && score < 70){
-                
+                gradeD++;
+            }
+            
