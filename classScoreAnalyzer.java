@@ -81,5 +81,8 @@ public class Main{
                 gradeD++;
             }
             else if (score >= 0 && score < 60){
-                
+                gradeF++;
+            }
+        }
+        
             
