@@ -77,4 +77,5 @@ public class Main{
             else if(score >= 70 && score < 80){
                 gradeC++;
             }
-            
+            else if(score >= 60 && score < 70){
+                
