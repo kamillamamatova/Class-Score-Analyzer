@@ -85,4 +85,4 @@ public class Main{
             }
         }
         
-            
+        System.out.println("\nHere is your report:");
