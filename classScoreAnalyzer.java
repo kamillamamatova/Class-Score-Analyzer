@@ -90,3 +90,4 @@ public class Main{
         System.out.println("\t-  A total of " + scoreCount + " scores are entered. " + passCount + " of them are 70 or higher.");
         System.out.println("\n\t-  Letter Grade distribution of the scores:");
         System.out.println("\t\t-  " + gradeA + " Students earned the grade of A (90-100)");
+        System.out.println("\t\t-  " + gradeB + " Students earned the grade of B (80-89)");
