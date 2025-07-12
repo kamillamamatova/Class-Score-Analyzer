@@ -86,3 +86,5 @@ public class Main{
         }
         
         System.out.println("\nHere is your report:");
+
+        System.out.println("\t-  A total of " + scoreCount + " scores are entered. " + passCount + " of them are 70 or higher.");
