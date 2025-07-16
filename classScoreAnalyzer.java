@@ -99,3 +99,4 @@ public class Main{
         double average = Math.round((double) sum / scoreCount * 100.0) / 100.0;
         System.out.println("\n\t-  The average score is: " + average);
     }
+}
