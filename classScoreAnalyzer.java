@@ -96,4 +96,5 @@ public class Main{
         System.out.println("\t\t-  " + gradeF + " Students earned the grade of F (59 or below)");
 
         // The average of all the scores
-         double average = Math.round((double) sum / scoreCount * 100.0) / 100.0;
+        double average = Math.round((double) sum / scoreCount * 100.0) / 100.0;
+        System.out.println("\n\t-  The average score is: " + average);
