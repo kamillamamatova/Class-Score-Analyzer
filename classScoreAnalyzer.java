@@ -94,3 +94,5 @@ public class Main{
         System.out.println("\t\t-  " + gradeC + " Students earned the grade of C (70-79)");
         System.out.println("\t\t-  " + gradeD + " Students earned the grade of D (60-69)");
         System.out.println("\t\t-  " + gradeF + " Students earned the grade of F (59 or below)");
+
+        // The average of all the scores
