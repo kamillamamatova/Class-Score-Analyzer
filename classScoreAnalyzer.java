@@ -92,4 +92,4 @@ public class Main{
         System.out.println("\t\t-  " + gradeA + " Students earned the grade of A (90-100)");
         System.out.println("\t\t-  " + gradeB + " Students earned the grade of B (80-89)");
         System.out.println("\t\t-  " + gradeC + " Students earned the grade of C (70-79)");
-        
+        System.out.println("\t\t-  " + gradeD + " Students earned the grade of D (60-69)");
